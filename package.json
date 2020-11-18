@@ -1,0 +1,16 @@
+{
+  "name": "moring",
+  "author": "Jason <jason.zhour@gmail.com>",
+  "private": "true",
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "clean": "lerna clean"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
